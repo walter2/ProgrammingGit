@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#Eigene Inhalte
+desktop.ini
+
