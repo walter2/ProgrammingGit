@@ -1,10 +1,2 @@
 Test von Rechner 1
-new informations have arisen
-
-this is so
-
-
-Zeile
-
-meine Aenderung Test Mergekonflikt
-
+Test 6 von Test_4
