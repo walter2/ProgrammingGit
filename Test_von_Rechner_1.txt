@@ -1,2 +1,4 @@
 Test 7 master
 Test_7 von Test_4
+
+Test_8 mit gitignore
