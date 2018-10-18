@@ -1,2 +1,4 @@
 Test von Rechner 1
-new informations arise
+new informations have arisen
+
+this is so
